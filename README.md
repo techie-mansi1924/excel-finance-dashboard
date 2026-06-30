@@ -8,9 +8,7 @@ This project demonstrates Excel dashboard development and business reporting ski
 
 ---
 
-## Dashboard Preview
 
-![Dashboard](assets/dashboard.png)
 
 ---
 
